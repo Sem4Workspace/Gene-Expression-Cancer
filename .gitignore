@@ -29,14 +29,10 @@ venv/
 Thumbs.db
 
 ####################################
-# Data (raw & processed)
-# (COMMENT these out if you WANT to version data)
-
-
-####################################
 # Results & Outputs
 ####################################
-
+*.png
+*.csv
 ####################################
 # Temporary / cache
 ####################################
@@ -47,6 +43,3 @@ Thumbs.db
 # Environment configs
 ####################################
 environment/.env
-
-
-Data/
